@@ -1,4 +1,4 @@
-# image-classification-without-training
+# Zero-Shot-image-classification
 Zero-Shot Prediction
 
 ## Install:
