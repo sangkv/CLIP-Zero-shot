@@ -1,5 +1,5 @@
-# Zero-Shot-image-classification
-Zero-Shot Prediction
+# CLIP-Zero-shot
+Zero-shot image classification
 
 ## Install:
 
