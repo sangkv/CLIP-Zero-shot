@@ -4,7 +4,7 @@ from PIL import Image
 from models import ImageClassifier
 
 # Examples for categories
-categories = ['a man', 'a woman', 'flowers', 'a house', 'a little girl', 'A flock of birds', 'a bird']
+categories = ['A photo of a man.', 'A photo of a woman.', 'A photo of flowers.', 'A photo of a house.', 'A photo of a little girl.', 'A photo of a flock of birds.', 'A photo of a bird.']
 # Initialize the classifier with the above category
 classifier = ImageClassifier(categories=categories)
 
